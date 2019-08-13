@@ -1,4 +1,4 @@
 # RC2A
-Turma RC2A
-Cesar Marassi Soares
-RA. 1901110
+Turma RC2A <br/>
+Cesar Marassi Soares<br/>
+RA. 1901110<br/>
