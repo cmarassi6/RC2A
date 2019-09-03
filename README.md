@@ -7,4 +7,4 @@ muito aprendizado envolvido.
 Essa aula está muito legal,<br/>
 porem tem que prestar bastante atenção. 
 
-ALGUMA OUTRA COAISA
+VAI DAR CONFLITO
